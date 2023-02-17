@@ -1,0 +1,133 @@
+
+.bgimg{
+    background-image: url(./Main_1.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    object-fit: cover;
+    width: 100%;
+    height: 100vh;
+  
+}
+
+.headerset{
+    padding-top: 250px;
+    box-sizing: border-box;
+    color: white;
+}
+
+.headerset h1{
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.services{
+    margin-bottom: 40px;
+    margin-top: 80px;
+    height: 170px;
+
+}
+
+.services h1{
+    position: relative;
+    padding-bottom: 20px;
+    color: lightgray;
+    line-height: 1;
+    letter-spacing: 3px;
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: none;
+    margin-left: 30px;
+}
+.underline{
+width: 140px;
+height: 10px;
+margin: 0 auto;
+background-color: gold;
+}
+
+
+.underline-left{
+width: 90px;
+height: 8px;
+margin-right: auto;
+background-color: gold;
+}
+
+.project{
+    position: relative;
+    padding-top: 30px;
+    padding-bottom: 15px;
+    color: lightgray;
+    line-height: 1;
+    letter-spacing: 3px;
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: none;
+    margin-left: 30px;
+}
+
+.underline-project{
+    width: 150px;
+    height: 10px;
+    margin: 0 auto;
+    background-color: gold;
+}
+
+.clients h1{
+    position: relative;
+    padding-top: 30px;
+    padding-bottom: 15px;
+    color: lightgray;
+    line-height: 1;
+    letter-spacing: 3px;
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: none;
+    margin-left: 30px;
+}
+
+.underline-clients{
+    width: 110px;
+    height: 10px;
+    margin: 0 auto;
+    background-color: gold;
+}
+
+.contacts h1{
+    position: relative;
+    padding-top: 30px;
+    padding-bottom: 15px;
+    color: lightgray;
+    line-height: 1;
+    letter-spacing: 3px;
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: none;
+    margin-left: 30px;
+}
+
+.underline-contacts{
+    width: 120px;
+    height: 10px;
+    margin: 0 auto;
+    background-color: gold;
+}
+
+.underline-inquiries{
+    width: 50px;
+    height: 10px;
+    margin-right: 0;
+    background-color: gold;
+}
+footer{
+    background-color: rgb(19, 44, 57);
+}
+.right{
+    float: right;
+
+}
+
